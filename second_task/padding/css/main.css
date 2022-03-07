@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 40px;
+}
+
+.box-one {
+  background-color: red;
+  padding: 10px;
+  border: solid 30px green;
+  margin: 60px;
+  height: 100px;
+  width: 100px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.box-two {
+  background-color: #0883f7;
+}
+/*# sourceMappingURL=main.css.map */
