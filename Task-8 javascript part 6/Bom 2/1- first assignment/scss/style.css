@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 0 15px;
+}
+
+.mybox {
+  border: red;
+  width: 600px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-left: 50px auto;
+}
+
+form {
+  background-color: #c9c0c0;
+  padding: 10px;
+}
+
+.mytxt {
+  margin-top: 100px;
+  border: cyan solid;
+}
+/*# sourceMappingURL=style.css.map */

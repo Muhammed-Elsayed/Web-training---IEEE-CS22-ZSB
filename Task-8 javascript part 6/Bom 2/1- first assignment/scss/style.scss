@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 0 15px;
+}
+
+.mybox {
+  border: red;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px auto;
+}
+
+form {
+  background-color: rgb(201, 192, 192);
+  padding: 10px;
+}
+
+.mytxt {
+  margin-top: 100px;
+  border: cyan solid;
+}
